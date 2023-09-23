@@ -34,6 +34,8 @@ The primary objective of this project is to utilize data analysis techniques to 
 
 Feel free to explore, learn, and engage with this project. Your feedback and insights are greatly appreciated as we navigate the world of NBA basketball through data analysis.
 
+[NBA Four Factors Analysis Project](https://github.com/Akiwacky/Four_Factors_Analysis/blob/main/NBA_Four_Factors_Analysis.ipynb)
+
 Thank you for joining me on this exciting journey!
 
 Akiwacky
